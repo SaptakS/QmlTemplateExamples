@@ -1,0 +1,3 @@
+{
+    "files": ["components/Forms/PasswordInputField.qml","components/Forms/TextInputField.qml","components/Forms/CheckboxInputField.qml","main.qml","components/Forms/TextareaInputField.qml","components/Forms/DropdownInputField.qml","main.py","components/Forms/DatepickerField.qml"]
+}
